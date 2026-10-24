@@ -10,7 +10,7 @@ Bu repository Muhammet Yusuf KÜTÜK tarafından, TÜBİTAK 2209-A araştırma p
 
 - trafik_analiz.png:dosya içerisindeki pcaptester2209analiz.py dosyasının çalıştırılması sonucu elde edilen çıktının ekran görüntüsü.
 
-- wirepcapsharktester.pcap: Kontrollü test ortamında(kali linux) (kimlik doğrulama gerektirmeyen standart web siteleri üzerinden) yakalanan 80 -90 saniyelik ham ağ trafik veri seti.
+- wirepcapsharktester.pcap: Kontrollü test ortamında(kali linux) (kimlik doğrulama gerektirmeyen standart web siteleri üzerinden) yakalanan 80 -90 saniyelik ham ağ trafik veri seti.(kapsam github dosya boyutu sebebiyle daraltıldı)
 
 ## Kullanılan Teknolojiler
 
