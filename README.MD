@@ -26,7 +26,7 @@ Projeyi kendi bilgisayarınızda veya test ortamınızda çalıştırmak için a
 
 1. Depoyu klonlayın veya indirin:
    ```bash
-   git clone <repo-linkiniz>
-   cd <repo-klasorunuz>
+   git clone https://github.com/MuhammetYusufKUTUK/tbtk2209testapp.git
+   cd tbtk2209testapp
 
 2. Zip olarak indirip kendi studio nuzda yada masaüstünüzde çalıştırabilirsiniz.
